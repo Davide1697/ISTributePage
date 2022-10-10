@@ -18,6 +18,11 @@ img{
     margin:0 auto;
 
 }
+figcaption{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 1.1rem;
+}
 
 #img-div{
     background: white;
@@ -44,7 +49,7 @@ ul{
 
 }
 
-#citazione{
+#citazione, #citer{
     font-style:italic;
     max-width: 545px;
     margin: 0 auto 50px auto;
@@ -52,11 +57,18 @@ ul{
 
 }
 
+
+
 a{
     color: black;
+}
+
+#more-info{
+    font-size: 1.3rem;
 }
 
 a:visited{
     color:#74638f;
 
 }
+
